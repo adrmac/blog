@@ -2,4 +2,4 @@
 title: My development blog
 ---
 
-Home page
+Documenting things I am learning and want to remember
